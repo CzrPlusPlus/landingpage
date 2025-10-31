@@ -78,9 +78,8 @@ button {
 
 .section2-row {
     margin-top: 30px;
-    background-color: aquamarine;
     justify-content: center;
-    gap: 40px;
+    gap: 45px;
 }
 
 .info-snippet {
@@ -95,7 +94,16 @@ button {
 }
 
 .section3 {
-    background-color: burlywood;
+    background-color: #E5E7EB;
+    padding: 100px 500px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+#thor {
+    font-weight: bold;
+    text-align: end;
 }
 
 .section4 {
